@@ -18,7 +18,7 @@ Whether it’s reverse engineering a binary, analyzing a vulnerability, or simul
 ## 📂 Contents
 - [CTFs](https://github.com/Mitchellzhou1/CyberPortfolio/tree/main/CTFs) – Write-ups and solutions from security challenges.  
 - [CVEs](https://github.com/Mitchellzhou1/CyberPortfolio/tree/main/CVE) – Proof-of-concept code and write-ups for tracked CVEs (responsible disclosure only).  
-- [Labs](https://github.com/Mitchellzhou1/CyberPortfolio/tree/main/labs/Burp) – Exercises in network, web, and system security.  
+- [Labs](https://github.com/Mitchellzhou1/CyberPortfolio/tree/main/labs) – Exercises in network, web, and system security.  
 - [Reports](https://github.com/Mitchellzhou1/CyberPortfolio/tree/main/Pentesting%20Reports) – Pen-testing reports and technical summaries.  
 
 
